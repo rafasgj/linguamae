@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/pi/LinguaMae/linguamae.sh
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name[pt_BR]=LinguaMae
+Name=LinguaMae
+Comment=Foi Golpe
